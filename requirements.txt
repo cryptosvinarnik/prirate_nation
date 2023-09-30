@@ -1,0 +1,4 @@
+aiohttp==3.8.4
+aiohttp_socks==0.7.1
+aioimaplib==1.0.1
+loguru==0.7.0
